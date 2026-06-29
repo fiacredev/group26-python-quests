@@ -1,4 +1,4 @@
-# Group 26 — Python Quests
+# Group 26: Python Quests
 
 A collection of beginner Python quests built to strengthen our programming
 foundations. The challenges span 6 levels, from printing text to building a
@@ -51,7 +51,7 @@ python3 quests/quest_11_guardian_of_the_bridge.py
 |-----------------|----------------------------|
 | Uwimpuhwe Fiacre | Level 1 (quests 1–5) |
 | Ndangamira Rwema Dylan | Level 2 (quests 6–10) |
-| Charles Iradukunda | Level 3 (quests 11–15) |
+| Charles Ishimwe Ndungutse | Level 3 (quests 11–15) |
 | Favour Nziza | Level 4 (quests 16–20) |
 | Rwanda Bruno Happy | Level 5 (quests 21–24) |
 | Joshua Gasasira | Level 6 (quests 25–27) |

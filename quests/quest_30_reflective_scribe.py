@@ -1,8 +1,6 @@
 #Assignment 1: number guesing game
 
-import random
-
-secret = random.randint(1, 10) # picks a random number
+secret = 7
 
 guess = int(input("Guess a number between 1 and 10: ")) # gets input from user and converts to integer
 
